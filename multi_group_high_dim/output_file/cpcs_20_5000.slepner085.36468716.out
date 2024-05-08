@@ -1,0 +1,36 @@
+Dimension:
+20
+
+Low cor:
+
+Marginal coverage:
+[0.881 0.919 0.969 0.905]
+
+Probabiilty of getting finite prediction intervals
+[0.999 0.961 0.965 0.999]
+
+Informative coverage probability:
+[0.881 0.916 0.968 0.905]
+
+Lengths of informative intervals:
+[0.444, 0.5, 0.617, 0.471]
+
+Working groups number:
+[6. 1. 3. 6.]
+
+High cor:
+
+Marginal coverage:
+[0.956 0.979 0.979 0.92 ]
+
+Probabiilty of getting finite prediction intervals
+[0.693 0.391 0.39  0.912]
+
+Informative coverage probability:
+[0.937 0.945 0.945 0.912]
+
+Lengths of informative intervals:
+[0.548, 0.565, 0.565, 0.479]
+
+Working groups number:
+[6. 1. 1. 6.]
