@@ -6,8 +6,10 @@
 
 ## Paper abstract
 
-Weighted conformal prediction (WCP), a recently proposed framework, provides uncertainty quantification for test data points with a different covariate distribution while maintaining a consistent conditional distribution of $Y$ given $X$ with training data. However, the effectiveness of this approach heavily relies on the overlap between covariate distributions; insufficient overlap can lead to uninformative prediction intervals with high probability. To tackle this challenge, we propose two methods for scenarios involving multiple sources with varied covariate distributions but consistent conditional distributions of $Y$ given $X$. 
-We establish theoretical guarantees for our proposed methods and demonstrate their efficacy through simulations.
+
+Weighted conformal prediction (WCP), a recently proposed framework, provides uncertainty quantification with the flexibility to accommodate different covariate distributions between training and test data. However, it is pointed out in this paper that the effectiveness of WCP heavily relies on the overlap between covariate distributions; insufficient overlap can lead to uninformative prediction intervals. To enhance the informativeness of WCP, we propose two methods for scenarios involving multiple sources with varied covariate distributions. We establish theoretical guarantees for our proposed methods and demonstrate their efficacy through simulations.
+
+
 
 ## Figures and codes
 
