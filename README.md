@@ -15,9 +15,9 @@ We establish theoretical guarantees for our proposed methods and demonstrate the
 
 We provide jupyter notebooks in folder ./wcp_demon. We demonstrate when the overlap between covariate distributions of training and testing is reduced, the probability of getting uninformative prediction intervals increases.
 <p align="center">
-  <img src="figures/fix_var_marg_prob_better_f.pdf" alt="Marginal coverage probability" width="33%" />
-  <img src="figures/fix_var_finite_prob_better_f.pdf" alt="Probability of getting finite prediction intervals" width="33%" />
-  <img src="figures/fix_var_infor_prob_better_f.pdf" alt="Informative coverage probability" width="33%" />
+  <img src="figures/fix_var_marg_prob_better_f.png" alt="Marginal coverage probability" width="33%" />
+  <img src="figures/fix_var_finite_prob_better_f.png" alt="Probability of getting finite prediction intervals" width="33%" />
+  <img src="figures/fix_var_infor_prob_better_f.png" alt="Informative coverage probability" width="33%" />
 </p>
 
 ### Numerical experiments
