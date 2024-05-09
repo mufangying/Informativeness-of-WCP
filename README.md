@@ -15,7 +15,7 @@ Weighted conformal prediction (WCP), a recently proposed framework, provides unc
 
 ### Demonstration: constructed WCP intervals can be uninformative
 
-We provide jupyter notebooks in folder ./wcp_demon. We demonstrate when the overlap between covariate distributions of training and testing is reduced, the probability of getting uninformative prediction intervals increases.
+We provide Jupyter notebooks in the folder './wcp_demon'. We demonstrate that when the overlap between the covariate distributions of the training and test data is reduced, the probability of obtaining uninformative prediction intervals increases.
 <p align="center">
   <img src="figures/fix_var_marg_prob_better_f.png" alt="Marginal coverage probability" width="30%" />
   <img src="figures/fix_var_finite_prob_better_f.png" alt="Probability of getting finite prediction intervals" width="30%" />
@@ -46,7 +46,7 @@ We consider $\sigma^2 = 1,4$ and sample size of observed groups $n_1=n_2 = 100$.
 
 ### Numerical experiments
 
-We provide jupyter notebooks and bash files in folders ./two_groups, ./multi_group_one_dim, and ./multi_group_high_dim respectively.  For the example with higher covariate dimension  and unknown likelihood ratios, 
-we use cluster to obtain the results. All results in numerical experiments are obtained through 5000 replications.
+We provide jupyter notebooks and bash files in folders './two_groups', './multi_group_one_dim', and './multi_group_high_dim' respectively.  For the example with higher covariate dimension and unknown likelihood ratios, 
+we use cluster to obtain the results. All results in the numerical experiments section are obtained through 5000 replications.
 
 
