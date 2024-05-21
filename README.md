@@ -2,7 +2,7 @@
 
 ## Paper link
 
-[arxiv]([https://arxiv.org/pdf/2405.06479])
+[arxiv](https://arxiv.org/pdf/2405.06479)
 
 ## Paper abstract
 
